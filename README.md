@@ -432,7 +432,7 @@ While others are only studying theory, I'm:
 **Built with passion and determination by Himanshu Gandhi**  
 *Cloud Computing Student | Future Cloud Architect*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/himanshu-gandhi-891204160/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-gandhi-891204160/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/himanshu3024)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gandhi111000@hotmail.com)
 
