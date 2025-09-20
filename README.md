@@ -429,12 +429,12 @@ While others are only studying theory, I'm:
 
 <div align="center">
 
-**Built with passion and determination by [Your Name]**  
-*Computer Science Student | Cloud Enthusiast | Future Cloud Architect*
+**Built with passion and determination by Himanshu Gandhi**  
+*Cloud Computing Student | Future Cloud Architect*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/himanshu-gandhi-891204160/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/himanshu3024)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gandhi111000@hotmail.com)
 
 ### **"From student to cloud professional, one project at a time"**
 
